@@ -1,3 +1,3 @@
-# Spark Examples
+# Opal Examples
 
-These are the official Spark examples.
+These are the official Opal examples.
